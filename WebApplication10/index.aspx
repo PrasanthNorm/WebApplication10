@@ -30,6 +30,7 @@
                 <asp:ListItem Value="2" Text="test2"></asp:ListItem>
                 <asp:ListItem Value="3" Text="test3"></asp:ListItem>
                 <asp:ListItem Value="3" Text="test3"></asp:ListItem>
+                <asp:ListItem Value="5" Text="tes"></asp:ListItem>
             </asp:DropDownList>
         </div>
     </form>
